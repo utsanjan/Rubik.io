@@ -15,7 +15,7 @@
 <br><br><p align="center">
 <a href="https://github.com/utsanjan/Rubik.io/releases">
 <img src="https://lh3.googleusercontent.com/-b-7XrhV_us0/YMSDWOvJxoI/AAAAAAAAiEc/__wX1TVqmuYIk-kZAIclJZ_KNdH_OqrmQCLcBGAsYHQ/en_badge_web_generic.png"
-alt="Rubik.io Game on Play Store"></a></p><br>ㅤ
+alt="Rubik.io Game on Play Store"  width=250></a></p><br>ㅤ
 
 ## 🕹️ Features
 
