@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFF"
+    tools:context=".MainActivity">
+
+        <RelativeLayout
+            android:id="@+id/container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true">
+
+                <im.delight.android.webview.AdvancedWebView
+                    android:id="@+id/webview"
+                    android:layout_width="350dp"
+                    android:layout_height="500dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="60dp"
+                    android:layout_marginBottom="40dp"
+                    android:scrollbars="none"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/tvTimer"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="150px"
+                    android:text="00:00:00"
+                    android:textColor="#292929"
+                    android:textSize="50dp"
+                    android:textStyle="bold" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tvTimer"
+                    android:layout_centerHorizontal="true">
+
+                <ImageButton
+                    android:id="@+id/btStart"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginRight="30dp"
+                    android:layout_toStartOf="@+id/btPause"
+                    android:background="@drawable/button"
+                    android:padding="10dp"
+                    android:src="@drawable/ic_baseline_play_arrow_24"
+                    android:textColor="#F2F2F2" />
+
+                <ImageButton
+                    android:id="@+id/btPause"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:background="@drawable/button"
+                    android:padding="10dp"
+                    android:src="@drawable/ic_baseline_pause_24"
+                    android:textColor="#F2F2F2" />
+
+                <ImageButton
+                    android:id="@+id/btReset"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="30dp"
+                    android:layout_width="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:layout_toEndOf="@+id/btPause"
+                    android:background="@drawable/button"
+                    android:padding="10dp"
+                    android:src="@drawable/ic_baseline_stop_24"
+                    android:textColor="#F2F2F2" />
+
+                </LinearLayout>
+
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/btShuffle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/button"
+            android:layout_alignBottom="@+id/container"
+            android:shadowColor="#00FFFFFF"
+            android:layout_margin="25px"
+            android:layout_marginTop="-25px"
+            android:stateListAnimator="@null"
+            android:visibility="gone"
+            android:textColor="#F2F2F2"
+            android:padding="10dp"
+            android:text="Shuffle" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#FFFFFF"
+            android:id="@+id/overlay_relative">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="200px"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginHorizontal="120dp"
+                    android:src="@drawable/logo"
+                    android:layout_alignTop="@+id/bomb"
+                    android:layout_marginTop="-100dp"/>
+
+                <pl.droidsonroids.gif.GifImageView
+                    android:id="@+id/bomb"
+                    android:layout_height="120dp"
+                    android:layout_width="match_parent"
+                    android:layout_margin="150px"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/loading" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="100px"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginHorizontal="80dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_alignParentBottom="true"
+                    android:src="@drawable/brand"/>
+
+        </RelativeLayout>
+
+</RelativeLayout>
