@@ -12,10 +12,10 @@
  
 <p align="center">
 <img src="https://lh3.googleusercontent.com/-j84tpxRYQRU/YMRkQQEOW5I/AAAAAAAAiC4/9AoCezNIpSoF354fI15OeH2BRIPAFaXrwCLcBGAsYHQ/s16000/image.png" width=120 height=240> <img src="https://lh3.googleusercontent.com/-CKu7pzWONoU/YMRlHDFq02I/AAAAAAAAiDU/y7bdoJIgY-cH6Mn9u9lyZ7LL7hvKARdmACLcBGAsYHQ/s16000/image.png" width=120 height=240> <img src="https://lh3.googleusercontent.com/-7YFXk9NXZUs/YMRlXPZto0I/AAAAAAAAiDc/vdfgGmrmC2kfjK_rnbrkvPktnXvZJ6dlQCLcBGAsYHQ/s16000/image.png" width=120 height=240> <img src="https://lh3.googleusercontent.com/-8pQtB3Bb82k/YMRljK9IRHI/AAAAAAAAiDg/c0nuR10HJ1sk0B2TWULlXxb-NUUGSBLFwCLcBGAsYHQ/s16000/image.png" width=120 height=240> <img src="https://lh3.googleusercontent.com/-e2rEjRq-uno/YMRlufJ-DaI/AAAAAAAAiDo/H7CwqLQF2ZIBfXqdBUzZQXwfFd6dD-3swCLcBGAsYHQ/s16000/image.png" width=120 height=240> </p>
-<br><br><p align="center">
+<br><p align="center">
 <a href="https://github.com/utsanjan/Rubik.io/releases">
 <img src="https://lh3.googleusercontent.com/-b-7XrhV_us0/YMSDWOvJxoI/AAAAAAAAiEc/__wX1TVqmuYIk-kZAIclJZ_KNdH_OqrmQCLcBGAsYHQ/en_badge_web_generic.png"
-alt="Rubik.io Game on Play Store"  width=250></a></p><br>ㅤ
+alt="Rubik.io Game on Play Store"  width=250></a></p>
 
 ## 🕹️ Features
 
