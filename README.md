@@ -10,25 +10,14 @@
 
 <p align="center">A minimal Rubik's cube <br>
   Game which can be played <br>
-  virtually on your Android</p>
-  
-## 📱 Screenshots
+  virtually on your Android</p><br>
 
-<table align="center">
-  <tr>
-    <td><img src="https://lh3.googleusercontent.com/-r-xIVRkl1xI/YMRe0pPDr0I/AAAAAAAAiB4/GKa3JgLbx4sBmcD3CpItfe-Bh2z-rAV-gCLcBGAsYHQ/s16000/1.png" width=120 height=240></td>
-    <td><img src="https://lh3.googleusercontent.com/-9ElnYBpgaFo/YMRfLDcjYQI/AAAAAAAAiCA/jUm4gBZwxcw8cntr8HllykXRFjAhWmvrACLcBGAsYHQ/s16000/2.png" width=120 height=240></td>
-    <td><img src="https://lh3.googleusercontent.com/-HaiqTVUbyxU/YMRhfSr1m2I/AAAAAAAAiCI/zloJOaAfHSMI4X1_5uEy9fqeazXkk2xVwCLcBGAsYHQ/s16000/3.png" width=120 height=240></td>
-    <td><img src="https://lh3.googleusercontent.com/-IYWXyZk5HFg/YMRhoX6ksOI/AAAAAAAAiCM/Pd76Flnc2JMkFBSvSXAC8M9ig9KDc3ltQCLcBGAsYHQ/s16000/4.png" width=120 height=240></td>
-    <td><img src="https://lh3.googleusercontent.com/-b_dNHJqZwr8/YMRhxWXd1pI/AAAAAAAAiCU/yCQk8ZjbNMcTPXNwuLpDCsAQWekfGXeGQCLcBGAsYHQ/s16000/5.png" width=120 height=240></td>
-  </tr>
- </table>
-
-## 📝 Notes ㅤ
-
+<p align="center">
+<img src="https://lh3.googleusercontent.com/-r-xIVRkl1xI/YMRe0pPDr0I/AAAAAAAAiB4/GKa3JgLbx4sBmcD3CpItfe-Bh2z-rAV-gCLcBGAsYHQ/s16000/1.png" width=120 height=240> <img src="https://lh3.googleusercontent.com/-9ElnYBpgaFo/YMRfLDcjYQI/AAAAAAAAiCA/jUm4gBZwxcw8cntr8HllykXRFjAhWmvrACLcBGAsYHQ/s16000/2.png" width=120 height=240> <img src="https://lh3.googleusercontent.com/-HaiqTVUbyxU/YMRhfSr1m2I/AAAAAAAAiCI/zloJOaAfHSMI4X1_5uEy9fqeazXkk2xVwCLcBGAsYHQ/s16000/3.png" width=120 height=240> <img src="https://lh3.googleusercontent.com/-IYWXyZk5HFg/YMRhoX6ksOI/AAAAAAAAiCM/Pd76Flnc2JMkFBSvSXAC8M9ig9KDc3ltQCLcBGAsYHQ/s16000/4.png" width=120 height=240> <img src="https://lh3.googleusercontent.com/-b_dNHJqZwr8/YMRhxWXd1pI/AAAAAAAAiCU/yCQk8ZjbNMcTPXNwuLpDCsAQWekfGXeGQCLcBGAsYHQ/s16000/5.png" width=120 height=240> </p>
+<br><br><p align="center">
 <a href="https://github.com/utsanjan/Rubik.io/releases">
 <img src="https://lh3.googleusercontent.com/-IJZuEYk4FQg/YJRSfaSP90I/AAAAAAAAgtg/ykZyNxtzjVkqDpKAbgeeCBTHs2i7IJSxgCLcBGAsYHQ/s16000/Webp.net-resizeimage%2B%25284%2529.png"
-alt="Rubik.io Game Download"></a><br>ㅤ
+alt="Rubik.io Game Download"></a></p><br>ㅤ
 
 ## 🛠️ Compatibility
 Any android version from Android 5.0 or above are compatible with this app.
