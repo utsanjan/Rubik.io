@@ -19,10 +19,6 @@
 <img src="https://lh3.googleusercontent.com/-IJZuEYk4FQg/YJRSfaSP90I/AAAAAAAAgtg/ykZyNxtzjVkqDpKAbgeeCBTHs2i7IJSxgCLcBGAsYHQ/s16000/Webp.net-resizeimage%2B%25284%2529.png"
 alt="Rubik.io Game Download"></a></p><br>ㅤ
 
-## 🛠️ Compatibility
-Any android version from Android 5.0 or above are compatible with this app.
-<br>Android 11 support is also introduced with the initial beta release.
-
 ## 🕹️ Features
 
 - Fully offline gameplay.
@@ -30,6 +26,10 @@ Any android version from Android 5.0 or above are compatible with this app.
 - Simple and minimal UI experience.
 - Compete with your friends & family.
 - Easily evaluate the speed of your moves.
+
+## 🛠️ Compatibility
+Any android version from Android 5.0 or above are compatible with this app.
+<br>Android 11 support is also introduced with the initial beta release.
 
 ## ✒️ Credits 
 ### [Google Doodle Games](https://www.google.com/doodles?q=games)<br>
