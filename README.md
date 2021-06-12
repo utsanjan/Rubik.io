@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/utsanjan/Rubik.io">
   <img src="https://lh3.googleusercontent.com/-PvHGr9rLu8o/YMRbRFUtMzI/AAAAAAAAiBw/KYMXz2gepkggi2Jcy0EvHBkoD2KI8_hIACLcBGAsYHQ/w200-h200/icon.png"
-  alt="Rubik.io">
+  alt="Rubik.io" width=150>
   </a><br>
   Rubik.io
   <br>
