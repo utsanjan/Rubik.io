@@ -26,8 +26,8 @@ alt="Rubik.io Game on Play Store"  width=250></a></p>
 - Easily evaluate the speed of your moves.
 
 ## 🛠️ Compatibility
-Any android version from Android 5.0 or above are compatible with this app.
-<br>Android 11 support is also introduced with the initial beta release.
+Any android version from Android 9.0 or above are compatible with this app.
+<br>Android 12 support is also introduced with the initial beta release.
 
 ## ✒️ Credits 
 ### [Google Doodle Games](https://www.google.com/doodles?q=games)<br>
