@@ -17,7 +17,7 @@
 <img src="https://lh3.googleusercontent.com/-b-7XrhV_us0/YMSDWOvJxoI/AAAAAAAAiEc/__wX1TVqmuYIk-kZAIclJZ_KNdH_OqrmQCLcBGAsYHQ/en_badge_web_generic.png"
 alt="Rubik.io Game on Play Store"  width=250></a></p>
 
-## 🕹️ Features 
+## 🕹️ Features
 
 - Fully offline gameplay.
 - No ads are implemented in it.
