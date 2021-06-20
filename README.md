@@ -9,7 +9,7 @@
 </h1>    
 
 <p align="center">A minimal Rubik's cube Game which can be played virtually on your Android</p><br>
- 
+
 <p align="center">
 <img src="https://lh3.googleusercontent.com/-j84tpxRYQRU/YMRkQQEOW5I/AAAAAAAAiC4/9AoCezNIpSoF354fI15OeH2BRIPAFaXrwCLcBGAsYHQ/s16000/image.png" width=120 height=240> <img src="https://lh3.googleusercontent.com/-CKu7pzWONoU/YMRlHDFq02I/AAAAAAAAiDU/y7bdoJIgY-cH6Mn9u9lyZ7LL7hvKARdmACLcBGAsYHQ/s16000/image.png" width=120 height=240> <img src="https://lh3.googleusercontent.com/-7YFXk9NXZUs/YMRlXPZto0I/AAAAAAAAiDc/vdfgGmrmC2kfjK_rnbrkvPktnXvZJ6dlQCLcBGAsYHQ/s16000/image.png" width=120 height=240> <img src="https://lh3.googleusercontent.com/-8pQtB3Bb82k/YMRljK9IRHI/AAAAAAAAiDg/c0nuR10HJ1sk0B2TWULlXxb-NUUGSBLFwCLcBGAsYHQ/s16000/image.png" width=120 height=240> <img src="https://lh3.googleusercontent.com/-e2rEjRq-uno/YMRlufJ-DaI/AAAAAAAAiDo/H7CwqLQF2ZIBfXqdBUzZQXwfFd6dD-3swCLcBGAsYHQ/s16000/image.png" width=120 height=240> </p>
 <br><p align="center">
