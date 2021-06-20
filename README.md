@@ -18,7 +18,6 @@
 alt="Rubik.io Game on Play Store"  width=250></a></p>
 
 ## 🕹️ Features
-
 - Fully offline gameplay.
 - No ads are implemented in it.
 - Simple and minimal UI experience.
