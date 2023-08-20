@@ -3,15 +3,15 @@ plugins {
 }
 
 android {
-    compileSdkVersion 30
+    compileSdkVersion 33
     buildToolsVersion "30.0.3"
 
     defaultConfig {
         applicationId "com.dopesatan.rubik.io"
         minSdkVersion 28
-        targetSdkVersion 30
+        targetSdkVersion 33
         versionCode 2
-        versionName "1.2.1"
+        versionName "1.2.2"
         vectorDrawables.useSupportLibrary = true
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -26,19 +26,28 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
+    namespace 'com.dopesatan.rubik.io'
 }
 
 dependencies {
-    implementation 'androidx.appcompat:appcompat:1.2.0'
-    implementation 'com.google.android.material:material:1.3.0'
-    implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
-    implementation 'androidx.lifecycle:lifecycle-process:2.2.0'
-    testImplementation 'junit:junit:4.+'
-    androidTestImplementation 'androidx.test.ext:junit:1.1.2'
-    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.google.android.material:material:1.9.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'androidx.lifecycle:lifecycle-process:2.6.1'
+    testImplementation 'junit:junit:'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
     implementation 'com.github.delight-im:Android-AdvancedWebView:v3.2.1'
     implementation 'gr.pantrif:easy-android-splash-screen:0.0.1'
     implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.22'
     implementation 'com.arsvechkarev:timerx:2.3.2'
     implementation 'com.github.clans:fab:1.6.4'
+    constraints {
+        implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.0") {
+            because("kotlin-stdlib-jdk7 is now a part of kotlin-stdlib")
+        }
+        implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.0") {
+            because("kotlin-stdlib-jdk8 is now a part of kotlin-stdlib")
+        }
+    }
 }
